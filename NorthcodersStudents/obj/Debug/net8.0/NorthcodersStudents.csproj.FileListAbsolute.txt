@@ -1,0 +1,14 @@
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\bin\Debug\net8.0\NorthcodersStudents.exe
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\bin\Debug\net8.0\NorthcodersStudents.deps.json
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\bin\Debug\net8.0\NorthcodersStudents.runtimeconfig.json
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\bin\Debug\net8.0\NorthcodersStudents.dll
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\bin\Debug\net8.0\NorthcodersStudents.pdb
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.AssemblyInfoInputs.cache
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.AssemblyInfo.cs
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.csproj.CoreCompileInputs.cache
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.dll
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\refint\NorthcodersStudents.dll
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.pdb
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\NorthcodersStudents.genruntimeconfig.cache
+C:\Users\tomto\OneDrive\Desktop\Northcoders\intro-week\NorthcodersStudentsSolution\NorthcodersStudents\obj\Debug\net8.0\ref\NorthcodersStudents.dll
